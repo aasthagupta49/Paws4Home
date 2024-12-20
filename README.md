@@ -9,6 +9,8 @@ Paws4Home is a comprehensive MERN stack application that connects pet lovers wit
 - "Take a Look at Some of Our Pets" section showcasing pets available for adoption.
 - "How It Works" section with a diagrammatic representation of the adoption process in 3 simple steps.
 
+![image](https://github.com/user-attachments/assets/a2a921d6-f58a-48ab-8e3a-e3e62dc46a0f)
+
 ### 2. Adoption and Rehoming Flow
 - **Adopt Page:** Explore a wide variety of pets with advanced filters for type, age, breed, etc.
 - **Rehome Page:** Simple and intuitive flow for pet owners to rehome their pets.
